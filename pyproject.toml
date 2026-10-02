@@ -36,7 +36,7 @@ shimeji-dl = "shimeji_dl.cli:app"
 [dependency-groups]
 dev = [
     "pytest>=9.1.1,<10",
-    "ruff==0.16.8",
+    "ruff==0.16.9",
     "mypy==2.3.1",
     "types-lxml==2026.2.16",
     "check-wheel-contents==0.6.3",
